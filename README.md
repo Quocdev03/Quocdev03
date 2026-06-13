@@ -15,20 +15,16 @@ I build reliable products end to end, with a strong bias for maintainable system
 ### Stack
 
 **Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,go,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,go&theme=dark" alt="Languages"/>
 
 **Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=vue,html,css&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis,mysql&theme=dark" alt="Backend & Databases"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis,mysql,postman&theme=dark" alt="Backend & Databases"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" alt="DevOps & Cloud"/>
+**Tools & DevOps**
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma&theme=dark" alt="Tools & DevOps"/>
 
 ---
 
