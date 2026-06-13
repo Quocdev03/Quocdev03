@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=240&section=header&text=GitHub%20Profile&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="GitHub Profile banner"/>
 </div>
 
-<div align="center">
-
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-00e87a?style=flat-square)
-
-</div>
 
 ### About
 
