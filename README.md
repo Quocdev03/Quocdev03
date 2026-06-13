@@ -24,11 +24,11 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis,mysql&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis,mysql,postman&theme=dark" alt="Backend & Databases"/>
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,git,vscode,figma&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" alt="DevOps & Cloud"/>
 
 ---
 
