@@ -34,8 +34,6 @@ I build reliable products end to end, with a strong bias for maintainable system
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
